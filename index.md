@@ -7,19 +7,19 @@ Welcome to the Build with AI workshop organized by MMDT!
 **Dates**: May 1–3, 2026 (MMT)
 
 ## Workshops
-- Workshop 1: Gemini API: Gemini-Powered YouTube Summarizer
-- Workshop 2: Goolge Antigravity
-- Workshop 3: Build InstaVibe 
+- Workshop 1: Walkthrough GDP 
+- Workshop 2: Gemini API: Gemini-Powered YouTube Summarizer
+- Workshop 3: Agent System Development with ADK Framework
 
 ## Schedule (MMT)
 
 | Date | Time (MMT) | Session |
 |------|------------|---------|
-| **May 1, 2026** | **9:00 AM – 10:30 AM** | Opening + Walkthrough GDP |
-| **May 1, 2026** | **7:30 PM – 9:30 PM**  | Workshop for Beginners |
-| **May 2, 2026** | **9:00 AM – 11:00 AM** | Workshop for Intermediate |
-| **May 2, 2026** | **7:30 PM – 9:30 PM**  | Workshop for Advanced |
-| **May 3, 2026** | **9:00 AM – 4:30 PM**  | Project Time |
+| **May 1, 2026** | **8:00 PM – 9:00 PM**   | Opening + Walkthrough GDP |
+| **May 2, 2026** | **10:00 AM – 11:30 AM** | Workshop: Build a Gemini-Powered YouTube Summarizer|
+| **May 2, 2026** | **8:00 PM – 10:00 PM**  | Workshop: Agent System Development with ADK Framework |
+| **May 3, 2026** | **2:00 PM – 4:00 PM**  | Participants' Project Session-I|
+| **May 3, 2026** | **5:00 PM – 7:00 PM**  | Participants' Project Session-II|
 | **May 3, 2026** | **7:00 PM – 9:30 PM**  | Student Project Showcase |
 
 
