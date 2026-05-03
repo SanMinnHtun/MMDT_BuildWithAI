@@ -26,7 +26,5 @@ Welcome to the Build with AI workshop organized by MMDT!
 
 ## Resources
 - 📑 [Slides](slides/) — Workshop presentation materials  
-- 🧪 [Workshops](workshops/) — Step-by-step workshop instructions  
-- 🧩 [Hands-on Labs](labs/) — Practice exercises and guided labs  
-- 📚 [Documentation](resources/documentation.md) — Google references  
-- 🔗 [Additional Resources](resources/) — Cheatsheets, links, and helpful guides  
+- 🧪 [Workshops](workshops/) — Step-by-step workshop instructions & codes
+- 🔗 [Projects](projects/) — Project showcases by participants

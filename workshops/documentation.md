@@ -1,0 +1,3 @@
+- Workshop 1: [Gemini-Powered YouTube Summarizer](https://codelabs.developers.google.com/devsite/codelabs/build-youtube-summarizer#1)
+- Workshop 2.1: [Agent System Development with ADK Framework](https://colab.research.google.com/drive/1pmqcuh0T51B-Mtf5opQ6w3g34pVsjrIe?usp=sharing)
+- Workshop 2.2: [Agent System Development with ADK Framework](https://colab.research.google.com/drive/1GlMFZ_Ng5jmO13UXxbvKd6C4TGmB4K8B?usp=sharing)
